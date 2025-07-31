@@ -1,4 +1,3 @@
---platform=linux/arm64 git
 --platform=linux/arm64 jellyfin/jellyfin 
 --platform=linux/amd64 alpine
 --platform=linux/amd64 busybox
