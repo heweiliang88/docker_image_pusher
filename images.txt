@@ -1,1 +1,3 @@
---platform=linux/arm64 docker.n8n.io/n8nio/n8n
+--platform=linux/arm64 ubuntu
+--platform=linux/arm64 debian
+--platform=linux/arm64 centos
