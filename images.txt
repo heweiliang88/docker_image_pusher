@@ -1,1 +1,2 @@
---platform=linux/amd64 jellyfin/jellyfin 
+--platform=linux/arm64 open-webui-v0.6.18
+--platform=linux/arm64 docker.n8n.io/n8nio/n8n
