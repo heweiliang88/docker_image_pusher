@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:git-d2a3aac-cuda126@sha256:c90959d0d2958a1b94d8833dee855e47e42e07b0fc151f73452c5cbf901756f7
+ghcr.io/open-webui/open-webui:git-708e0ed@sha256:20a6217f6b4320e77491faf4a60ce5aece72fd928b12cb3c8f3fe16fbb84734b
