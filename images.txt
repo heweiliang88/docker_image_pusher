@@ -1,7 +1,1 @@
---platform=linux/arm64 open-webui-v0.6.16
---platform=linux/arm64 open-webui-v0.6.15
---platform=linux/arm64 open-webui-v0.6.14
---platform=linux/arm64 open-webui-v0.6.13
---platform=linux/arm64 open-webui-v0.6.12
---platform=linux/arm64 open-webui-v0.6.11
---platform=linux/arm64 open-webui-v0.6.10
+ghcr.io/open-webui/open-webui:git-d2a3aac-cuda126@sha256:c90959d0d2958a1b94d8833dee855e47e42e07b0fc151f73452c5cbf901756f7
