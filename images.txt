@@ -1,1 +1,1 @@
---platform=arm64 yidadaa/chatgpt-next-web
+--platform=arm64 langgenius/dify-web:latest
