@@ -1,2 +1,1 @@
---platform=arm64 langgenius/dify-web:latest
-sulinggg/openwrt:rpi4
+--platform=arm64 unifreq/openwrt-aarch64:latest
