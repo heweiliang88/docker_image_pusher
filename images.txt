@@ -1,1 +1,1 @@
-unifreq/openwrt-aarch64:latest
+ghcr.io/open-webui/open-webui:git-8920bf2@sha256:f1606b072a5856b1772d4ba2f95cc0ed9373b66bb1ad2da3ae73928137b78bbb
